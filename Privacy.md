@@ -65,7 +65,7 @@ The data collected is minimal, non-sensitive and relevant to the group moderatio
 Processing does not override user privacy, especially given the transparency and opt-out mechanisms in place
 Users are not subject to high-risk processing, profiling, or automated decisions
 ### Safeguards
-To protect your rights when relying on legitimate interest, the bot developer has implementedhasimplemented the following safeguards: 
+To protect your rights when relying on legitimate interest, the bot developer has implemented the following safeguards: 
 Data minimisation: Only IDs and action references are stored  – no unnecessary metadata, messages, or personal content
 Limited retention: Data is deleted regularly, redactions are honoured and backups are purged
 User access and control: Users can request a copy of their data or object to processing at any time
