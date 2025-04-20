@@ -1,6 +1,6 @@
 # VRCat Privacy Policy
 
-Last Updated: 18/04/2025
+Last Updated: 20/04/2025
 
 VRCat (“we”, “us”, “our”) is a moderation and group management Discord bot that integrates with the VRChat platform. This Privacy Policy explains how we collect, use, store, and protect your data when you use the bot.
 
