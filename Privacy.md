@@ -2,14 +2,20 @@
 
 Last Updated: 20/04/2025
 
-VRCat (“we”, “us”, “our”) is a moderation and group management Discord bot that integrates with the VRChat platform. This Privacy Policy explains how we collect, use, store, and protect your data when you use the bot.
+VRCat is a Discord bot designed to assist with moderation and group management for communities using the VRChat platform. It is developed and maintained by an independent UK-based programmer, who also acts as the Data Controller for all personal data collected and processed through the bot under the UK General Data Protection Regulation (UK GDPR).
 
-VRCat is developed and maintained by an independent programmer based in the UK and acts as the Data Controller under the UK General Data Protection Regulation (UK GDPR).
+> ⚠️What is “Personal Data”
+> In this policy, personal data refers to any information that can be used to identify an individual, either directly or indirectly. This can include things like Discord User IDS, VRChat User IDS, audit action references, and VRChat Group and Discord Server IDS. This service does not include usernames, profile avatars, IP addresses, or message content unrelated to the bot's commands and audit channels, unless otherwise stated. 
 
+VRCat does not collect or store: 
+Usernames or display names
+Profile Pictures or avatars
+Personal messages (DMs)
+Any general chat content outside designated moderation channels
+Government-issued ID, date of birth or IP addresses. 
+## 1. Data VRCat Collects
 
-## 1. Data We Collect
-
-We collect only the personal data necessary to deliver our moderation and group management features:
+VRCat collects only the personal data necessary to deliver our moderation and group management features:
 
 
 Discord Information:
@@ -22,9 +28,10 @@ VRChat Information:
 - VRChat User IDs associated with audit actions (kicks, bans, warnings)
 - Audit Action IDs linked to specific moderation actions
 - VRChat Group IDs for owners who utilise the bot
-> ⚠️ While usernames, avatars, and profiles are not collected, these unique identifiers may still qualify as personal data under UK GDPR.
+> ⚠️ While usernames, avatars, profiles, and real-world information are not collected, these unique identifiers may still qualify as personal data under UK GDPR.
 
-## 2. How We Use Your Data
+
+## 2. How VRCat Uses Your Data
 Your data is processed only to enable the bot’s core features:
 
 - Carrying out moderation actions (warnings, kicks, bans)
@@ -33,26 +40,41 @@ Your data is processed only to enable the bot’s core features:
 - Allowing group owners to manage their servers and roles
 
 Analytics Generation
-- Weekly and monthly reports (if enabled by group owners)
+- Weekly and monthly reports (off by default, enabled by group owners)
 - On-demand reports via command (by authorized moderators)
 
 Message Content
-We only process message content sent to channels explicitly designated for moderation commands. This includes kick, warn, or ban reasons. No Discord DMs or general messages are logged or stored.
+VRCat only processes message content sent to channels explicitly designated for moderation commands. This includes kick, warn, or ban reasons. No Discord DMs, general messages or voice memos are logged, stored or processed. 
 
-We do not use your data for profiling, advertising, or automated decision-making.
+VRCat does not use your data for profiling, advertising, or automated decision-making.
 
 
 ## 3. Legal Basis for Processing Data
-We process data under:
 
-- Performance of a contract – to provide the requested moderation and group management functionality
+VRCat processes data under the following legal bases defined by the UK GDPR:
+- Performance of a contract – The processing is necessary to provide group owners and moderators with the features they request, such as executing moderation commands, generating analytics and managing roles or groups. 
 
-- Legitimate interests – to maintain accountability and improve our services. A Legitimate Interests Assessment (LIA) has been conducted.
 
-Where future features require consent, it will be explicitly requested and can be withdrawn at any time by opening a support ticket.
+- Legitimate interests – The bot developer has a legitimate interest in ensuring the security, integrity and accountability of group moderation and audit functionality. These interests include:
+	- Preventing abuse of moderation tools
+	- Maintaining accurate group-level records for accountability
+	- Supporting group owners with visibility into moderator activity
+
+The bot developer has conducted a Legitimate Interest Assessment  (LIA) to balance these needs against the rights and freedoms of individual users. The LIA concluded that:
+The data collected is minimal, non-sensitive and relevant to the group moderation context
+Processing does not override user privacy, especially given the transparency and opt-out mechanisms in place
+Users are not subject to high-risk processing, profiling, or automated decisions
+### Safeguards
+To protect your rights when relying on legitimate interest, the bot developer has implementedhasimplemented the following safeguards: 
+Data minimisation: Only IDs and action references are stored  – no unnecessary metadata, messages, or personal content
+Limited retention: Data is deleted regularly, redactions are honoured and backups are purged
+User access and control: Users can request a copy of their data or object to processing at any time
+Context-based use: The bot is used in closed Discord server environments, and only for group moderation-related purposes
+If future features require your explicit consent (e.g. analytics tied to external tools, or optional reporting features), VRCat will request this clearly before use. Consent can be withdrawn at any time by opening a support ticket. 
+
 ## 4. Data Storage and Security
 
-All data is currently stored on self-hosted servers located in the UK. We do not use third-party cloud providers at this time.
+All data is currently stored on self-hosted servers located in the UK. VRCat does not use third-party cloud providers at this time.
 Security measures include:
 
 - Encryption at rest and in transit
@@ -63,14 +85,14 @@ Security measures include:
 
 - Rate-limiting to prevent scraping or abuse
 
-If we adopt third-party subprocessors in the future, they will be vetted for GDPR compliance and this policy will be updated.
+If the bot developer adopts third-party subprocessors in the future, they will be vetted for GDPR compliance, and this policy will be updated.
 
-In the event of a data breach, affected users and the UK ICO will be notified within 72 hours as required by law.
+In the event of a data breach, affected users and the UK Information Commissioner's Office (ICO) will be notified within 72 hours, as required by law.
 
 
 ## 5. Data Retention
 
-We retain data only as long as necessary:
+VRCat retains data only as long as necessary:
 
 - Moderation and audit logs: Up to 12 months, unless required for ongoing group management
 - Inactive groups: Reviewed and purged after 6 months of inactivity
@@ -82,15 +104,15 @@ Backups are purged as part of the deletion process.
 
 ## 6. Data Sharing and Subprocessors
 
-We do not sell, rent, or share your data with third parties.
+VRCat and the bot developer do not sell, rent, or share your data with third parties.
 
-We may disclose data only:
+The bot developer may disclose data only:
 
 - To comply with legal obligations
 - To protect the safety, rights, or property of others
 - At the explicit request of the data subject
 
-We may use subprocessors (e.g., cloud storage providers) in the future. Any subprocessors will process data under strict confidentiality agreements and GDPR-aligned terms.
+The bot developer may use subprocessors (e.g., cloud storage providers) in the future. Any subprocessors will process data under strict confidentiality agreements and GDPR-aligned terms.
 
 
 ## 7. Your Rights Under UK GDPR
@@ -102,17 +124,18 @@ You have the right to:
 - Restrict or object to certain types of processing
 - Receive a copy of your data in a portable format
 
-To exercise your rights, open a ticket in our support Discord server. We may request ID verification and will respond within 30 days.
+To exercise your rights, open a ticket in our support Discord server. The bot developer may request ID verification and will respond within 30 days.
+
 
 ## 8. Age Restrictions and Verification
 VRCat is intended for users aged 18 and older.
 
-- We do not process or store any government-issued IDs.
+- The bot developer and VRCat do not process or store any government-issued IDS.
 
-- VRChat offers an optional age verification system. If a user passes age verification, we may store a simple flag indicating this.
-Only accounts that pass age verification are stored. If verification is revoked or missing, we do not store the user at all.
+- VRChat offers an optional age verification system. If a user passes age verification, VRCat may store a simple flag indicating this.
+Only accounts that pass age verification are stored. If verification is revoked or missing, VRCat does not store the user at all.
 
-Until age verification is fully integrated, group owners are responsible for ensuring age compliance.
+Until age verification is fully integrated, group owners are solely responsible for ensuring age compliance with age restrictions within their servers. VRCat assumes no liability for age enforcement failures at the group level.
 
 ## 9. Shutdown and Data Portability
 If the VRCat service is discontinued, group owners will be provided a complete CSV export of their data (logs, analytics, group settings). Instructions will be sent via Discord prior to shutdown.
@@ -120,7 +143,7 @@ If the VRCat service is discontinued, group owners will be provided a complete C
 
 ## 10. Changes to This Privacy Policy
 
-We may revise this Privacy Policy from time to time. Significant updates will be communicated via Discord announcements or direct messages. We encourage users to review the policy periodically.
+The bot developer may revise this Privacy Policy from time to time. Significant updates will be communicated via Discord announcements or direct messages. The bot developer encourages users to review the policy periodically.
 
 ## 11. Contact Us
 
@@ -128,3 +151,4 @@ For questions regarding this Privacy Policy or to exercise your data protection 
 
 <br>
 By using the VRCat bot, you acknowledge and agree to the terms outlined in this Privacy Policy.
+
