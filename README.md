@@ -16,7 +16,8 @@ The bot also serves to give insight into your group, such as generating Instance
 # Automatic audit logging:
 VRCat spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction, and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
 VRCat will spawn these channels:
-<img src="" width="300" height="900"> </img>
+
+<img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
 # Commands:
 ## `/ban`
 Ban does as it says; when you provide a VRChat user's ID, it will ban the user from your group. 
