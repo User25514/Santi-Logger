@@ -1,7 +1,9 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/icons/805335928289624074/a_927dfe90d7d14c3f0af3d9d9f30d4226.gif?size=1024" width="100" height="100"> </img> 
-
+  
 # VR-Cat
+[Terms of Service](https://github.com/User25514/VR-Cat/blob/main/ToS.md)    |  [Privacy Policy](https://github.com/User25514/VR-Cat/blob/main/Privacy.md)
+:-------------------------:|:-------------------------:
   
 <br>
 </div>
