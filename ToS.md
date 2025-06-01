@@ -1,5 +1,6 @@
 # VRCat Terms of Service
-Last Updated: 27/04/2025
+Last Updated: 01/06/2025
+> Age verification has been added to VR-Cat. Terms of Service changes to clarify how the verified status is used, stored, and configured by group owners.
 
 Welcome to VRCat — a Discord bot designed to assist with moderation and group management within VRChat communities. By using VRCat, you agree to the following Terms of Service. Please read them carefully before proceeding.
 
@@ -9,7 +10,7 @@ By inviting, configuring, or interacting with VRCat, you affirm that you have re
 Group owners and server administrators are solely responsible for ensuring their members are informed of and comply with these Terms of Service and the Privacy Policy when VRCat is deployed in their community.
 
 ## 2. Eligibility
-VRCat is intended for individuals aged 18 and older. Group owners are solely responsible for ensuring age compliance within their respective communities. VRCat does not independently verify user age and relies solely on platform-provided verification flags when available.
+VRCat is intended for individuals aged 18 and older. Group owners are solely responsible for ensuring age compliance within their respective communities. VRCat now supports account linking between Discord and VRChat for users who have passed VRChat’s third-party 18+ verification. VRCat stores only a verification flag and linked user IDs, and does not access or store any sensitive documents or personal details used in that verification process.
 
 ## 3. Definitions
 - “Group Owner” refers to the verified owner of a VRChat Group or the owner of a Discord Server where VRCat is actively deployed.
@@ -19,6 +20,8 @@ VRCat is intended for individuals aged 18 and older. Group owners are solely res
 
 ## 4. Use of the Service
 You may utilise VRCat solely for legitimate moderation and group management purposes in compliance with these Terms and all applicable laws. Any unauthorised use is strictly prohibited. Unauthorised use includes but is not limited to, any use that violates Discord’s or VRChat’s terms of service.
+Users may opt into account linking between Discord and VRChat accounts for age-restricted access features. Group owners may configure role or access conditions based on this verified link, but are solely responsible for enforcing local rules or platform content restrictions.
+
 
 ## 5. User Content and Limited License
 Users retain ownership of all content they submit or that is processed through VRCat. By using the bot, you grant the developer a limited, non-exclusive, revocable license to process your content solely for:
@@ -67,7 +70,7 @@ Premium features may be offered through Patreon subscriptions. All such features
 Access to premium features may be modified, revoked, or discontinued at any time at the developer’s discretion, subject to reasonable notice where practical.
 
 ## 10. External Integrations
-VRCat may, in the future, support integrations with external tools or services (e.g., dashboards or third-party APIs). These integrations will be clearly opt-in and subject to the limitations and protections outlined in the Privacy Policy.
+VRCat may, in the future, support integrations with external tools or services (e.g., dashboards, third-party APIs, or VRChat’s age verification provider). These integrations will be clearly opt-in and subject to the limitations and protections outlined in the Privacy Policy. Current usage of VRChat’s 18+ verification API is limited to receiving a verification flag; no sensitive data is accessed or stored.
 
 ## 11. Liability Disclaimer
 VRCat and all related services are provided “as is” without warranty of any kind, express or implied. To the maximum extent permitted under applicable law, the developer disclaims all liability for:
@@ -122,3 +125,6 @@ These Terms may be revised periodically. Substantive changes to these Terms will
 For inquiries, appeals, content issues, or data concerns, please submit a ticket through our official Discord server:
  https://discord.gg/afterhrs
 
+# Previous Updates:
+
+> 27/04/2025 - Terms of Service first published publicly.
