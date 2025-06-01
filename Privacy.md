@@ -166,4 +166,4 @@ By using the VRCat bot, you acknowledge and agree to the terms outlined in this 
 
 # Previous Updates:
 
-## 20/04/2025 - Privacy Policy first published publicly. 
+> 20/04/2025 - Privacy Policy first published publicly. 
