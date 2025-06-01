@@ -1,6 +1,7 @@
 # VRCat Privacy Policy
 
-Last Updated: 20/04/2025
+Last Updated: 01/06/2025
+> Age verification has been added to VR-Cat. Policy changes include how 18+ flags are stored and processed, as well as additional information surrounding integration and data processing. 
 
 VRCat is a Discord bot designed to assist with moderation and group management for communities using the VRChat platform. It is developed and maintained by an independent UK-based programmer, who also acts as the Data Controller for all personal data collected and processed through the bot under the UK General Data Protection Regulation (UK GDPR).
 
@@ -28,6 +29,8 @@ VRChat Information:
 - VRChat User IDs associated with audit actions (kicks, bans, warnings)
 - Audit Action IDs linked to specific moderation actions
 - VRChat Group IDs for owners who utilise the bot
+- Verification status (18+ flag from VRChat for users who opt in)
+- Link between VRChat User ID and Discord User ID for users verified as 18+
 > ⚠️ While usernames, avatars, profiles, and real-world information are not collected, these unique identifiers may still qualify as personal data under UK GDPR.
 
 
@@ -38,6 +41,7 @@ Your data is processed only to enable the bot’s core features:
 - Generating audit logs linked to VRChat moderation
 - Producing analytics (e.g. group trends, moderator activity)
 - Allowing group owners to manage their servers and roles
+- Linking Discord and VRChat accounts to confirm verified 18+ status, used to enable access to certain group features or channels if configured by group owners
 
 Analytics Generation
 - Weekly and monthly reports (off by default, enabled by group owners)
@@ -59,11 +63,13 @@ VRCat processes data under the following legal bases defined by the UK GDPR:
 	- Preventing abuse of moderation tools
 	- Maintaining accurate group-level records for accountability
 	- Supporting group owners with visibility into moderator activity
-
+	- Enforcing group content restrictions (e.g., 18+ access) for safety and compliance
+	- Enabling optional role assignments based on verified age status
 The bot developer has conducted a Legitimate Interest Assessment  (LIA) to balance these needs against the rights and freedoms of individual users. The LIA concluded that:
 The data collected is minimal, non-sensitive and relevant to the group moderation context
 Processing does not override user privacy, especially given the transparency and opt-out mechanisms in place
 Users are not subject to high-risk processing, profiling, or automated decisions
+
 ### Safeguards
 To protect your rights when relying on legitimate interest, the bot developer has implemented the following safeguards: 
 Data minimisation: Only IDs and action references are stored  – no unnecessary metadata, messages, or personal content
@@ -84,6 +90,8 @@ Security measures include:
 - Secure logging
 
 - Rate-limiting to prevent scraping or abuse
+
+Linked account records (VRChat to Discord) and verification flags are encrypted and stored securely with role-based access.
 
 If the bot developer adopts third-party subprocessors in the future, they will be vetted for GDPR compliance, and this policy will be updated.
 
@@ -129,13 +137,16 @@ To exercise your rights, open a ticket in our support Discord server. The bot de
 
 ## 8. Age Restrictions and Verification
 VRCat is intended for users aged 18 and older.
-
+VRCat now supports optional linking of a VRChat account to a Discord account if the VRChat user has successfully passed 18+ age verification via VRChat’s third-party provider. This is used to confirm eligibility for adult-only roles or features within Discord servers.
 - The bot developer and VRCat do not process or store any government-issued IDS.
 
 - VRChat offers an optional age verification system. If a user passes age verification, VRCat may store a simple flag indicating this.
-Only accounts that pass age verification are stored. If verification is revoked or missing, VRCat does not store the user at all.
 
-Until age verification is fully integrated, group owners are solely responsible for ensuring age compliance with age restrictions within their servers. VRCat assumes no liability for age enforcement failures at the group level.
+- Linking is only processed if age verification is confirmed via VRChat's third-party. If verification is revoked or missing, VRCat does not store the user at all.
+
+- Group owners are still responsible for managing age-restricted access in their communities. VRCat offers this feature to support, not enforce, compliance. VRCat assumes no liability for age enforcement failures at the group level.
+
+
 
 ## 9. Shutdown and Data Portability
 If the VRCat service is discontinued, group owners will be provided a complete CSV export of their data (logs, analytics, group settings). Instructions will be sent via Discord prior to shutdown.
@@ -152,3 +163,7 @@ For questions regarding this Privacy Policy or to exercise your data protection 
 <br>
 By using the VRCat bot, you acknowledge and agree to the terms outlined in this Privacy Policy.
 
+
+# Previous Updates:
+
+## 20/04/2025 - Privacy Policy first published publicly. 
