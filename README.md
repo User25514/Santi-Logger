@@ -21,6 +21,8 @@ VRCat will spawn these channels:
 
 <img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
 # Commands:
+## `/verify`
+Allows Discord users to link their VRChat 18+ badge, allowing them to receive roles and verify in all servers that use VR-Cat.
 ## `/ban`
 Ban does as it says; when you provide a VRChat user's ID, it will ban the user from your group. 
 ## `/unban`
