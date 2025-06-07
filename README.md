@@ -52,3 +52,15 @@ Discord message preview    |  Graph Larger View
 ## `Join and Leaves`
 This option shows the Join and leave rates over 6 months, indicating member retention and periods with an influx of members, such as during events. 
 <img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
+
+# Groups Using VR-Cat
+
+| [**Snuggle Me**](https://vrchat.com/home/group/grp_c5394b1d-76e7-40ef-950d-ef83520edd70) | [**Adultfurrs**](https://vrchat.com/home/group/grp_96910ce2-cf67-4968-b7ab-d2f0e2584adb) | [**Fur Ever**](https://vrchat.com/home/group/grp_4718c059-c5e6-46a5-8edc-0927d6d0d844) |
+|    :----:   |    :----:   |    :----:   |
+| [**Twisted Tails**](https://vrchat.com/home/group/grp_738135c0-fd36-4be0-bd8c-c67ad53cf474) | [**VRelium**](https://vrchat.com/home/group/grp_39a94c64-9712-4680-9758-db25fde037f4) | [**The Furry Beans Community**](https://vrchat.com/home/group/grp_6f4618b3-caaf-4248-9321-ec8509153e0a) |
+| [**Weed Jesus**](https://vrchat.com/home/group/grp_06c098c5-216f-4750-a9f1-80c2eb3b01e8) | [**The Fantasy Furballs**](https://vrchat.com/home/group/grp_f5f06090-04a4-43e7-8c77-8868ef9a4509) | [**Furry Meadows**](https://vrchat.com/home/group/grp_30c87ab1-051c-4b8d-a734-1692ac8320bf) |
+| [**Fudges Fur Zone**](https://vrchat.com/home/group/grp_373f8afd-4463-48dd-968b-4681b7e31f47) | [**Single**](https://vrchat.com/home/group/grp_6a66796e-1499-487b-8f33-84b76beb4b59) | [**TheHouseOfJudas**](https://vrchat.com/home/group/grp_8cd2b81c-80dc-40a2-b4f4-043e5dadf9cf) |
+| [**Sirens' Hearth**](https://vrchat.com/home/group/grp_da1932e6-cfab-4401-b0c1-7d4b74abf4bb) | [**The Drunken Koi Pond**](https://vrchat.com/home/group/grp_22acc08c-2d04-4e8b-909f-146442830b6b) |
+
+
+> Want your group featured here? Apply to use our bot!
