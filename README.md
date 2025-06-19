@@ -19,7 +19,7 @@ The bot also serves to give insight into your group, such as generating Instance
 Santi Logger spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction, and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
 Santi Logger will spawn these channels:
 
-<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
+<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
 # Commands:
 ## `/verify`
 Allows Discord users to link their VRChat 18+ badge, allowing them to receive roles and verify in all servers that use Santi Logger.
@@ -39,7 +39,7 @@ A CSV of moderation taken over the past 4 weeks, a small overview on staff stats
 For example:
 Discord message preview    |  Graph Larger View
 :-------------------------:|:-------------------------:
-<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/StaffAuditMessageExample.png" width="300" height="900"> </img> | <img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/StaffAuditModerationGraphExample.png" width="1300" height="900"> </img> 
+<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/StaffAuditMessageExample.png" width="300" height="900"> </img> | <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/StaffAuditModerationGraphExample.png" width="1300" height="900"> </img> 
 
 ## `Instances`
 This will record how many users are inside your instances, regardless of the number of worlds you use. This can be used to test out worlds and see which ones are better for your community. 
@@ -47,11 +47,11 @@ This command will also give insight into the diversity of your instances, showin
 
 Discord message preview    |  Graph Larger View
 :-------------------------:|:-------------------------:
-<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="372" height="305"> </img> | <img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
+<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="372" height="305"> </img> | <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
 
 ## `Join and Leaves`
 This option shows the Join and leave rates over 6 months, indicating member retention and periods with an influx of members, such as during events. 
-<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
+<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
 
 # Groups Using Santi Logger
 
