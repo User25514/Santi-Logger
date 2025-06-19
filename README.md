@@ -1,28 +1,28 @@
 <div align="center">
 <img src="https://cdn.discordapp.com/icons/805335928289624074/a_927dfe90d7d14c3f0af3d9d9f30d4226.gif?size=1024" width="100" height="100"> </img> 
   
-# VR-Cat
-[Terms of Service](https://github.com/User25514/VR-Cat/blob/main/ToS.md)    |  [Privacy Policy](https://github.com/User25514/VR-Cat/blob/main/Privacy.md)
+# Santi Logger
+[Terms of Service](https://github.com/User25514/Santi Logger/blob/main/ToS.md)    |  [Privacy Policy](https://github.com/User25514/Santi Logger/blob/main/Privacy.md)
 :-------------------------:|:-------------------------:
   
 <br>
 </div>
-VR-Cat is a Discord bot designed for VRChat group owners to provide information and assist with group moderation. 
+Santi Logger is a Discord bot designed for VRChat group owners to provide information and assist with group moderation. 
 
 <br>
 Developed by Yen and the After Hours Development Group.  
 
 ## What does the bot do?
-The VR-Cat bot mirrors your group's audit log, posting it within your Discord server so that your staff can apply evidence and tags to each interaction. 
+The Santi Logger bot mirrors your group's audit log, posting it within your Discord server so that your staff can apply evidence and tags to each interaction. 
 The bot also serves to give insight into your group, such as generating Instance, group members and moderation analytics.
 # Automatic audit logging:
-VRCat spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction, and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
-VRCat will spawn these channels:
+Santi Logger spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction, and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
+Santi Logger will spawn these channels:
 
-<img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
+<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
 # Commands:
 ## `/verify`
-Allows Discord users to link their VRChat 18+ badge, allowing them to receive roles and verify in all servers that use VR-Cat.
+Allows Discord users to link their VRChat 18+ badge, allowing them to receive roles and verify in all servers that use Santi Logger.
 ## `/ban`
 Ban does as it says; when you provide a VRChat user's ID, it will ban the user from your group. 
 ## `/unban`
@@ -39,7 +39,7 @@ A CSV of moderation taken over the past 4 weeks, a small overview on staff stats
 For example:
 Discord message preview    |  Graph Larger View
 :-------------------------:|:-------------------------:
-<img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/StaffAuditMessageExample.png" width="300" height="900"> </img> | <img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/StaffAuditModerationGraphExample.png" width="1300" height="900"> </img> 
+<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/StaffAuditMessageExample.png" width="300" height="900"> </img> | <img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/StaffAuditModerationGraphExample.png" width="1300" height="900"> </img> 
 
 ## `Instances`
 This will record how many users are inside your instances, regardless of the number of worlds you use. This can be used to test out worlds and see which ones are better for your community. 
@@ -47,13 +47,13 @@ This command will also give insight into the diversity of your instances, showin
 
 Discord message preview    |  Graph Larger View
 :-------------------------:|:-------------------------:
-<img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="372" height="305"> </img> | <img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
+<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="372" height="305"> </img> | <img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
 
 ## `Join and Leaves`
 This option shows the Join and leave rates over 6 months, indicating member retention and periods with an influx of members, such as during events. 
-<img src="https://github.com/User25514/VR-Cat/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
+<img src="https://github.com/User25514/Santi Logger/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
 
-# Groups Using VR-Cat
+# Groups Using Santi Logger
 
 | [**Snuggle Me**](https://vrchat.com/home/group/grp_c5394b1d-76e7-40ef-950d-ef83520edd70) | [**Adultfurrs**](https://vrchat.com/home/group/grp_96910ce2-cf67-4968-b7ab-d2f0e2584adb) | [**Fur Ever**](https://vrchat.com/home/group/grp_4718c059-c5e6-46a5-8edc-0927d6d0d844) |
 |    :----:   |    :----:   |    :----:   |
