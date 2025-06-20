@@ -49,10 +49,11 @@ Discord message preview    |  Graph Larger View
 This will record how many users are inside your instances, regardless of the number of worlds you use. This can be used to test out worlds and see which ones are better for your community. 
 This command will also give insight into the diversity of your instances, showing how many PC, Quest, and ios users are in your instance. 
 
-Discord message preview    |  Graph Larger View
-:-------------------------:|:-------------------------:
-<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="372" height="305"> </img> | <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
-
+Discord message preview    |  
+:-------------------------:|
+<img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExampleMessageDivrsity.png" width="472" height="405"> </img>
+Graph Larger View          | 
+ <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/InstanceCountExample.png" width="1400" height="600"> </img> 
 ## `Join and Leaves`
 This option shows the Join and leave rates over 6 months, indicating member retention and periods with an influx of members, such as during events. 
 <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
