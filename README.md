@@ -19,14 +19,16 @@ Developed by Yen and the After Hours Development Group.
 ## What does the bot do?
 The Santi Logger bot mirrors your group's audit log, posting it within your Discord server so that your staff can apply evidence and tags to each interaction. 
 The bot also serves to give insight into your group, such as generating Instance, group members and moderation analytics.
+
 # Automatic audit logging:
-Santi Logger spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction, and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
+Santi Logger spawns channels that can be used to record kicks, bans, unbans, warns, joins, and leaves in forum channels. This allows group staff members to tag each interaction and add evidence that the files are not downloaded but based on Discord's file lifetime. Posts will auto-archive after the set time that your group has established, for example, kicks will be automatically archived after 72 hours. 
 Santi Logger will spawn these channels:
 
 <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/VRCatChannelSpawnExample.png" width="316" height="226"> </img>
 # Commands:
 ## `/verify`
 Allows Discord users to link their VRChat 18+ badge, allowing them to receive roles and verify in all servers that use Santi Logger.
+> **For the verify command to work, the bots role must be above the role you wish to assin**
 ## `/ban`
 Ban does as it says; when you provide a VRChat user's ID, it will ban the user from your group. 
 ## `/unban`
@@ -34,7 +36,7 @@ Unban users who were previously banned when provided with a VRChat User ID.
 ## `/user` 
 This command, when provided with a VRChat User ID, displays their VRChat profile, the groups they have set to public, and their moderation counts, such as the number of times they have been kicked from your group or other groups. However, if you use this command on a staff member for your group, it will also show their total recorded moderation actions they've taken. 
 ## `/auditlookup`
-When provided with a VRChat User ID, this command will bring up all evidence the group has stored on that person, showing how many times theyve been kicked or banned and why they where previously kicked or banned.
+When provided with a VRChat User ID, this command will bring up all evidence the group has stored on that person, showing how many times they've been kicked or banned and why they were previously kicked or banned.
 
 ## Staff auditing:
 By typing in the command `/analytics` you can choose from the following options:
@@ -58,6 +60,31 @@ Graph Larger View          |
 This option shows the Join and leave rates over 6 months, indicating member retention and periods with an influx of members, such as during events. 
 <img src="https://github.com/User25514/Santi-Logger/blob/main/ExamplePicture/joinandleaveExample.png" width="1400" height="600"> </img> 
 
+## What Permissions does the bot need?
+Discord Permissions | Reason
+:-------------------------:|:-------------------------:
+| Manage Roles  | This is needed for the verify command, letting you apply a verified role automatically | 
+| Manage Channels | This is needed to create the channels that the bot will reside in, posting kicks, bans, warns, etc. | 
+| View Channels | This lets the bot see the channels it resides in | 
+| Send Messages | This lets the bot send the actual messages from your audit log | 
+| Create Public Threads | As kicks, bans, warns, joins, and leaves are in a forum channel, the bot makes threads for them | 
+| Create Private Threads | As kicks, bans, warns, joins, and leaves are in a forum channel, the bot makes threads for them  | 
+| Send Messages in Threads | As kicks, bans, warns, joins, and leaves are in a forum channel, the bot makes threads for them and needs to send messages in them | 
+| Manage Messages | This lets the bot moderate its own messages | 
+| Manage Threads | Auto archives threads that are 72 hours old and closes them | 
+| Embed Links | To let the bot embed pictures and evidence | 
+| Attach Files | To allow the bot to send files that were previously used as evidence | 
+| Read Message History | Lets the bot register the messages and files sent in threads | 
+| Use External Emojis | Not used yet | 
+| Use External Stickers | Not used yet | 
+| Add Reactions | Not used yet | 
+| Use Slash Commands | Allows the bot to do slash commands | 
+| Create Polls | Not used yet | 
+
+VR-Chat Permissions | Reason
+:-------------------------:|:-------------------------:
+| Audit Log Access | This is required for the bot to retrieve your audit log information and post it to your Discord server. | 
+| Ban Perms | This is needed to allow for Discord Staff to ban remotely from either discord command or from a join, leave, kick or warn thread. | 
 
 # Groups Using Santi Logger
 
