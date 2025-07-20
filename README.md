@@ -94,7 +94,7 @@ VR-Chat Permissions | Reason
 | [**Weed Jesus**](https://vrchat.com/home/group/grp_06c098c5-216f-4750-a9f1-80c2eb3b01e8) | [**The Fantasy Furballs**](https://vrchat.com/home/group/grp_f5f06090-04a4-43e7-8c77-8868ef9a4509) | [**Furry Meadows**](https://vrchat.com/home/group/grp_30c87ab1-051c-4b8d-a734-1692ac8320bf) |
 | [**Fudges Fur Zone**](https://vrchat.com/home/group/grp_373f8afd-4463-48dd-968b-4681b7e31f47) | [**Single**](https://vrchat.com/home/group/grp_6a66796e-1499-487b-8f33-84b76beb4b59) | [**TheHouseOfJudas**](https://vrchat.com/home/group/grp_8cd2b81c-80dc-40a2-b4f4-043e5dadf9cf) |
 | [**Sirens' Hearth**](https://vrchat.com/home/group/grp_da1932e6-cfab-4401-b0c1-7d4b74abf4bb) | [**The Drunken Koi Pond**](https://vrchat.com/home/group/grp_22acc08c-2d04-4e8b-909f-146442830b6b) | [**VerifiedFurs**](https://vrchat.com/home/group/grp_3eed7605-88ca-43a9-ab20-9ddde6c81a21) |
-| [**Fluffy Beans**](https://vrchat.com/home/group/grp_0958208e-70d6-4fbf-b67a-7718ab6b8db3)
+| [**Fluffy Beans**](https://vrchat.com/home/group/grp_0958208e-70d6-4fbf-b67a-7718ab6b8db3) | [**Red Sinnerz**](https://vrchat.com/home/group/grp_dc8f24f0-199c-46aa-b175-d2c931206220)
 <br>
 <div align="center">
   
